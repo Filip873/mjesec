@@ -1,8 +1,21 @@
-<style>
-h1 {color:black;}
-#tijelo {background-color:gray;}
-
-p{color:yellow;}
-h2{color:black;}
-h2 {font-size: larger;
-</style>
+.clanak1{
+color: aquamarine;
+margin: 5px;
+background-color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 5px solid red;
+}
+.clanak2{
+    color: red;
+margin: 5px;
+background-color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border: 5px solid blue
+}
+.clanak3{
+    color: cornsilk;
+margin: 3px;
+background-color: black;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border: 5px solid white;
+}
